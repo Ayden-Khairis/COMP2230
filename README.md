@@ -2,8 +2,7 @@
 # Algorithms
 
 
-## Comp2230/6230 Algorithms
-## Assignment
+## Comp2230/6230 Algorithms Assignment
 
 Task: Design an engine that plays the two player game connect four.
 Connect Four
